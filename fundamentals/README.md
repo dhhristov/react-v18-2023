@@ -1,3 +1,8 @@
+# Fundamentals:
+
+This is initial project with basic JS/React functionalities as the name suggest.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
